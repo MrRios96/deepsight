@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+pillow
+insightface
+onnxruntime
+opencv-python
+numpy
